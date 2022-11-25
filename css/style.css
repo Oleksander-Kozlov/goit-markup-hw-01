@@ -1,4 +1,15 @@
-.body {
-    background-color: rgb(213, 211, 226);
-    color: rgb(39, 195, 192);
+body {
+    background-color: #FFFFFF;
+    color: #434455;
+    c
 }
+
+.logo {
+    color: #2E2F42;
+}
+
+/* основной цвет текста #2E2F42; */
+/* доп цвет #434455  #4D5AE5*/
+
+/* акцент #4D5AE5 */
+/* #FFFFFF; бекграунд */
